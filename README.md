@@ -1,0 +1,2 @@
+# Mintlify
+Trail for Mintlify
